@@ -1,7 +1,7 @@
 # Normelik-todo-app
 
-'''cmd
+```cmd
 - cd
 - npm install
 - npm run dev
-'''
+```
